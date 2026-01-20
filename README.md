@@ -1,4 +1,22 @@
-# Student Result Calculator
+# Student Result Calculator 🎓
+
+This is a simple Python project that calculates a student's:
+- Total marks
+- Percentage
+- Grade
+
+## Features
+- User input based
+- Grade calculation
+- Beginner friendly
+
+## How to Run
+1. Clone the repository
+2. Run `result_calculator.py`
+3. Enter marks when prompted
+
+## Language Used
+- Python# Student Result Calculator
 
 name = input("Enter student name: ")
 
